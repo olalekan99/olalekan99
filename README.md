@@ -1,10 +1,6 @@
 🚀 About Me
 I'm a Frontend developer...
 
-🔗 Links
-twitter
-
-Other Common Github Profile Sections
 👩‍💻 I'm currently working on a project
 
 🧠 I'm currently learning at Frontend at Zuri Cohort
